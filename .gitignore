@@ -1,4 +1,7 @@
 .prettierrc.json
+.prettierrc.yaml
+.htmlhintrc
+.stylelintrc.yaml
 
 
 
